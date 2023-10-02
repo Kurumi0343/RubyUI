@@ -1,6 +1,6 @@
 {
     "status" : "online",
     "version" : "Beta 1.0.0",
-    "livestreams" : ["https://github.com/Kurumi0343/RubyUI/blob/main/icon.png?raw=true","https://github.com/Kurumi0343/RubyUI/blob/main/icon.png?raw=true"],
+    "livestreams" : ["https://github.com/Kurumi0343/RubyUI/blob/main/icon.png?raw=true","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvXDiDtwm_fK1V-p54ctnUqE6qsnYxBUDp098IN9Hfkw&s"],
     "schedule" : [{"https://github.com/Kurumi0343/RubyUI/blob/main/icon.png?raw=true":"null","https://github.com/Kurumi0343/RubyUI/blob/main/icon.png?raw=true":"null","type":"MPL","date":"10/06/2003","time":"10:00PM"}]
 }
