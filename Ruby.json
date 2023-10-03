@@ -1,6 +1,6 @@
 {
     "status" : "online",
     "version" : "Beta 1.0.0",
-    "livestreams" : ["https://github.com/Kurumi0343/RubyUI/blob/main/icon.png?raw=true","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvXDiDtwm_fK1V-p54ctnUqE6qsnYxBUDp098IN9Hfkw&s"],
-    "schedule" : [{"teamoneicon":"https://github.com/Kurumi0343/RubyUI/blob/main/icon.png?raw=true","teamtwoicon":"https://github.com/Kurumi0343/RubyUI/blob/main/icon.png?raw=true","type":"MPL","date":"10/06/2004","time":"11:20PM"},{"teamoneicon":"https://github.com/Kurumi0343/RubyUI/blob/main/icon.png?raw=true","teamtwoicon":"https://github.com/Kurumi0343/RubyUI/blob/main/icon.png?raw=true","type":"MPL","date":"10/06/2003","time":"10:00PM"}]
+    "livestreams" : ["https://cdn.discordapp.com/avatars/444686980018733056/920772559c0db23dcc96a5d3e2aaa2d5.webp?size=1280","https://cdn.discordapp.com/avatars/1025901080833429555/f0a43b44f046bc6ae6a0dcbcb4e58e53.webp?size=1280","https://cdn.discordapp.com/avatars/628261265181245440/92cf9740fc46165dc17980c7c3464be7.webp?size=1280"],
+    "schedule" : [{"teamoneicon":"https://cdn.discordapp.com/avatars/628261265181245440/92cf9740fc46165dc17980c7c3464be7.webp?size=1280","teamtwoicon":"https://cdn.discordapp.com/avatars/444686980018733056/920772559c0db23dcc96a5d3e2aaa2d5.webp?size=1280","type":"MPL","date":"10/06/2004","time":"11:20PM"},{"teamoneicon":"https://ichef.bbci.co.uk/news/976/cpsprodpb/16620/production/_91408619_55df76d5-2245-41c1-8031-07a4da3f313f.jpg","teamtwoicon":"https://ichef.bbci.co.uk/news/976/cpsprodpb/16620/production/_91408619_55df76d5-2245-41c1-8031-07a4da3f313f.jpg","type":"MPL","date":"10/06/2003","time":"10:00PM"}]
 }
